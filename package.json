@@ -1,0 +1,9 @@
+{
+  "name": "req",
+  "description": "Patched Require for PhantomJS / CasperJS",
+  "version": "0.0.1",
+  "author": {
+    "name": "Kevin Scott",
+    "email": "kscott@tenable.com"
+  }
+}
